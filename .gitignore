@@ -10,4 +10,5 @@ __pycache__/
 outputs/*
 !outputs/.gitkeep
 !outputs/batch_runs/
+outputs/batch_runs/*
 !outputs/batch_runs/.gitkeep
