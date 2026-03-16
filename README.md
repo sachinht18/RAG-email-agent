@@ -1,4 +1,4 @@
-# Email SDR LangChain Flow
+# Email Automation using RAG
 
 Reusable outbound workflow framework for:
 
