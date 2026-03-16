@@ -1,0 +1,35 @@
+{
+  "prospect_id": "northstar-asha",
+  "account_name": "Northstar Payments",
+  "account_domain": "northstarpayments.com",
+  "target_persona_name": "Asha Raman",
+  "target_persona_role": "VP Revenue Operations",
+  "raw_company_notes": [
+    "Northstar Payments helps software platforms embed payouts, treasury workflows, and reconciliation.",
+    "The company appears focused on operational reliability for embedded finance teams.",
+    "EMEA expansion seems to be a current growth priority."
+  ],
+  "raw_person_notes": [
+    "Asha Raman leads revenue operations.",
+    "Likely cares about process consistency, ramp efficiency, and outbound quality across the sales org."
+  ],
+  "raw_recent_signals": [
+    "Announced EMEA expansion in February.",
+    "Hiring enterprise and mid-market account executives.",
+    "Job descriptions reference multi-stakeholder deals and repeatable sales execution."
+  ],
+  "raw_pain_hypotheses": [
+    "New hires may need faster account ramping.",
+    "Message consistency may be harder as the team grows.",
+    "Revenue operations may be absorbing more enablement work than desired."
+  ],
+  "raw_stack_signals": [
+    "Salesforce",
+    "Outreach"
+  ],
+  "raw_source_urls": [
+    "https://northstarpayments.com",
+    "https://northstarpayments.com/careers"
+  ],
+  "desired_cta": "Open to a 15-minute conversation next week?"
+}

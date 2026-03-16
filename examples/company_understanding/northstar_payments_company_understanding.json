@@ -1,0 +1,128 @@
+{
+  "company_summary": "Northstar Payments appears to be a B2B payments-infrastructure company selling embedded payouts, treasury workflows, and reconciliation capabilities to software platforms.",
+  "business_model_hypothesis": "Likely a software platform with a consultative commercial motion, where technical credibility and operational reliability both matter during evaluation.",
+  "what_the_company_sells": "Embedded finance infrastructure for software companies that need payouts, treasury workflows, and reconciliation.",
+  "portfolio_shape": "platform",
+  "portfolio_complexity": "moderate",
+  "buyer_type_hypothesis": "both",
+  "likely_gtm_motion": "hybrid",
+  "likely_buyer_journey": "Buyers likely discover the company through outbound or inbound education, move into a sales-assisted evaluation, ask technical and operational questions, and require alignment across commercial and technical stakeholders before progressing.",
+  "likely_internal_teams": [
+    "marketing",
+    "sales",
+    "revenue operations",
+    "solutions engineering"
+  ],
+  "likely_existing_workflow": "Inbound interest and outbound account activity probably flow into Salesforce and Outreach, with reps or revops stitching together account context, messaging, and routing before meetings get booked.",
+  "likely_systems_or_handoffs": [
+    "website forms or demo requests",
+    "salesforce ownership and routing",
+    "outreach sequencing",
+    "handoff from marketing or SDR to AE or solutions engineering"
+  ],
+  "workflow_friction_points": [
+    "Complex evaluation questions may require human follow-up before buyers feel ready to book.",
+    "As the team scales, message quality and account context may become inconsistent across reps.",
+    "Operational handoffs between inbound interest, qualification, and meeting routing may create lag."
+  ],
+  "volume_or_coordination_problem": "The likely coordination problem is not just lead volume, but maintaining fast, consistent qualification and context-sharing across multiple teams as deal complexity rises.",
+  "product_layering_opportunities": [
+    {
+      "workflow_step": "website evaluation and initial qualification",
+      "target_team": "marketing",
+      "current_motion": "Visitors likely self-educate first and then request follow-up when questions become too specific for static pages or forms.",
+      "product_role": "Act as a knowledge-grounded inbound conversion layer that answers evaluation questions and captures richer qualification context before handoff.",
+      "value_levers": [
+        "conversion",
+        "speed",
+        "qualification_quality"
+      ],
+      "value_frame": "operational_leverage",
+      "support_level": "partially_grounded",
+      "reasoning": "The product is clearly built for website qualification and routing, but the exact weight Northstar places on inbound website conversion is still inferred."
+    },
+    {
+      "workflow_step": "routing and handoff quality",
+      "target_team": "revenue operations",
+      "current_motion": "Ops likely coordinates routing, ownership, and context transfer across an expanding sales motion.",
+      "product_role": "Reduce manual triage by qualifying earlier and passing structured conversation context into CRM and scheduling workflows.",
+      "value_levers": [
+        "consistency",
+        "operational_control",
+        "support_load_reduction"
+      ],
+      "value_frame": "operational_leverage",
+      "support_level": "speculative",
+      "reasoning": "The revops wedge fits the account signals, but the current inbound workflow is not directly documented in the prospect research."
+    }
+  ],
+  "value_levers": [
+    "conversion",
+    "speed",
+    "qualification_quality",
+    "consistency"
+  ],
+  "strongest_team_wedge": "Marketing or revenue operations appears to be the strongest wedge because both teams would care about faster qualification and cleaner handoff context.",
+  "strongest_safe_wedge": "A safe wedge is improving how high-intent visitors get answers and qualified context before routing, rather than claiming broad revenue transformation.",
+  "value_frame": "operational_leverage",
+  "grounded_facts": [
+    "Northstar Payments helps software platforms embed payouts, treasury workflows, and reconciliation.",
+    "The account appears to use Salesforce and Outreach.",
+    "The product supports grounded website conversations, CRM routing, and meeting-booking integrations."
+  ],
+  "workflow_hypotheses": [
+    "Northstar likely has a sales-assisted evaluation process with both technical and business stakeholders.",
+    "Revenue operations may be carrying some enablement and process-consistency burden as the team grows.",
+    "Inbound qualification and routing may still involve manual steps or delayed follow-up."
+  ],
+  "speculative_inferences": [
+    "Website conversion quality is a current executive priority.",
+    "Solutions engineering or technical sellers are heavily involved early in the funnel.",
+    "The team has enough inbound volume that faster qualification materially changes efficiency."
+  ],
+  "ambiguities": [
+    "It is unclear whether Northstar is predominantly inbound-led, outbound-led, or balanced.",
+    "It is unclear how much of the buyer journey happens self-serve versus with direct rep involvement."
+  ],
+  "contradictions": [],
+  "unsupported_assumptions": [
+    "Assuming website conversion is a top pain without direct evidence.",
+    "Assuming inbound routing friction is more important than outbound ramp or message-consistency pain."
+  ],
+  "overclaim_risks": [
+    "Do not claim that the product will replace the Northstar sales workflow end to end.",
+    "Do not state that inbound conversion is broken unless the copy clearly frames it as a hypothesis."
+  ],
+  "clarification_questions": [
+    "Is Northstar operating a single core product motion or a broader platform motion with multiple buyer paths?",
+    "Is the more urgent problem speed-to-response, qualification quality, or message consistency across the team?",
+    "Is the current workflow primarily inbound website qualification, outbound account research, or a blend of both?",
+    "Would the value be judged more by conversion lift or by operational control for routing and handoff?"
+  ],
+  "outreach_implications": {
+    "best_messaging_angle": "Lead with faster, more consistent qualification for complex evaluation journeys rather than a generic AI-agent pitch.",
+    "anchor_pain": "Buyers with real evaluation questions may stall or wait for follow-up when the current workflow cannot answer and route quickly enough.",
+    "safe_proof_points": [
+      "Knowledge-grounded answers from approved sources",
+      "CRM and meeting-booking integrations",
+      "Structured qualification context written back to downstream systems"
+    ],
+    "avoid_in_copy": [
+      "Do not imply self-serve onboarding or instant deployment without support.",
+      "Do not claim measurable conversion lift for this account unless a verified proof point is in the product docs.",
+      "Do not present workflow hypotheses as confirmed operating facts."
+    ],
+    "cta_style": "Use a low-friction exploratory CTA focused on how they currently qualify and route evaluation-stage interest.",
+    "angle_notes": [
+      "Keep the message workflow-aware, not product-feature-heavy.",
+      "Frame the wedge as an improvement to an existing motion rather than a wholesale replacement."
+    ]
+  },
+  "confidence_by_section": {
+    "company_shape": "medium",
+    "way_of_working": "low",
+    "product_fit": "medium",
+    "ambiguities_and_risks": "high",
+    "outreach_implications": "medium"
+  }
+}

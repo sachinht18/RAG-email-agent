@@ -1,0 +1,33 @@
+{
+  "company_name": "Docket AI",
+  "product_name": "Marketing Agent",
+  "product_category": "AI inbound conversion agent for B2B websites",
+  "one_line_summary": "Docket AI Marketing Agent turns anonymous website traffic into qualified pipeline through real-time, knowledge-grounded conversations.",
+  "ideal_customer_profile": "B2B software companies with meaningful inbound website traffic, complex evaluation questions, and a need to qualify buyers before routing them to sales.",
+  "core_problem": "High-intent website visitors leave without converting when forms and legacy chat cannot answer real evaluation questions in the moment.",
+  "key_capabilities": [
+    "Answers buyer questions from approved knowledge sources only",
+    "Qualifies inbound buyers through structured discovery during conversation",
+    "Routes and books meetings into CRM and scheduling systems",
+    "Writes conversation context back to Salesforce and HubSpot"
+  ],
+  "differentiators": [
+    "Grounded responses from approved knowledge instead of generic chatbot replies",
+    "Designed for B2B evaluation-stage questions across pricing, integrations, security, and use-case fit",
+    "Captures qualification context before routing buyers to the right human"
+  ],
+  "proof_points": [
+    "Supports Salesforce, HubSpot, Calendly, Chili Piper, RevenueHero, and Slack integrations",
+    "Handles 40+ languages",
+    "Targets sub-3-second response times"
+  ],
+  "terminology_guardrails": [
+    "Use 'Marketing Agent' as the product name.",
+    "Treat 'Agent Qualified Lead' and 'AQL' as internal terms unless the audience already knows them."
+  ],
+  "avoid_claims": [
+    "Do not claim outbound prospecting or cold-email automation.",
+    "Do not imply the product is self-serve if onboarding is white-glove."
+  ],
+  "default_cta": "Worth a 15-minute look next week if improving inbound conversion is on the roadmap?"
+}

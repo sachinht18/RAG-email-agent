@@ -1,0 +1,32 @@
+{
+  "account_name": "Northstar Payments",
+  "account_domain": "northstarpayments.com",
+  "industry": "Payments infrastructure",
+  "persona_name": "Asha Raman",
+  "persona_role": "VP Revenue Operations",
+  "company_summary": "Northstar Payments helps software platforms embed payouts, treasury workflows, and reconciliation into their products.",
+  "strategic_initiatives": [
+    "Hiring new enterprise and mid-market AEs across EMEA",
+    "Creating a more repeatable outbound motion as the team scales"
+  ],
+  "pain_points": [
+    "New reps take too long to ramp on account context",
+    "Outbound quality varies because research and messaging are manual",
+    "Revenue operations is carrying too much enablement overhead"
+  ],
+  "recent_signals": [
+    "Announced EMEA expansion in February",
+    "Published multiple AE openings mentioning complex multi-stakeholder deals",
+    "Continues to position itself around operational reliability for embedded finance"
+  ],
+  "personalization_hooks": [
+    "Ops-led scaling motion",
+    "Need for consistency as headcount grows",
+    "Likely pressure to preserve outbound quality while increasing pipeline coverage"
+  ],
+  "known_stack": [
+    "Salesforce",
+    "Outreach"
+  ],
+  "desired_cta": "Open to a 15-minute conversation next week?"
+}
